@@ -10,4 +10,13 @@ Based on the grid partition strategy and simulation parameter settings in this p
 The figure below (a) shows the pressure distribution in the flow field under still water conditions. Due to simulating in a gravity field, the pressure exhibits stratified increments. The figure below (b) is the cloud map of pressure distribution under wave conditions. The undulation of waves causes the water level at wave crests to be higher than the still-water surface, while wave troughs are lower than the still-water surface. Therefore, the hydraulic pressure fluctuates compared to still water. Overall, both states' flow field pressure values are consistent with reality.
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/dcf7d672-1975-42e6-aafa-4698681067e2)
 
+# Appendix B
+The robot is actuated by servos, which control the undulating motion of the fin by moving the fin rays fixed on the fin surface to specific positions. A flexible rubber sheet is chosen as the fin surface material to ensure flexibility and cut into a sector shape. Pre-tension forces are applied to both ends to make the inner edge straight. The fin surface is secured to the robot using fin rays. Following Shannon's sampling theorem, nine fin rays are determined to allow for the fitting of two complete waves in the undulating fin motion.
+![附图3](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/a1155894-967b-4904-9e52-958a48e9475f)
+![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/ec79ee7f-0f80-4213-98f4-4942a7fbf96f)
+
+# Appendix C
+Experimental diagram of single-period motion with frequency 1, wave number 1 and amplitude 15°
+![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/d46edab4-3500-4d9a-9ab1-7f1a0dbb9543)
+
 
