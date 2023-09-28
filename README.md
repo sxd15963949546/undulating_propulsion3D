@@ -15,6 +15,10 @@ The robot is actuated by servos, which control the undulating motion of the fin 
 ![附图3](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/a1155894-967b-4904-9e52-958a48e9475f)
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/ec79ee7f-0f80-4213-98f4-4942a7fbf96f)
 
+# Appendix C Force analysis of the robot during in-turning motion
+The force analysis of the robot during stationary turns is shown in \autoref{fig23}. The magnitudes of lift and thrust are small. The integrated force over a single cycle is zero, which implies that although the robot experiences minor transient deviations in its motion during stationary turns, considering the weight of the entire robot, the magnitudes are on the order of $10^-4$ and result in negligible displacement, which contrasts the force analysis during differential steering, which is more complex due to the asymmetric fin movements on the left and right sides. In contrast, the forces during stationary turns result from wave-like motions with the same parameters but in opposite directions. The forces during stationary turns exhibit symmetry and can cancel out forces of equal magnitude but opposite directions on the robot. However, force fluctuations occur due to the evolution of flow-induced vortices in various directions, implying the inevitable loss of energy or force in different directions.
+[fig_lift.pdf](https://github.com/sxd15963949546/undulating_propulsion3D/files/12748873/fig_lift.pdf)
+
 # Appendix C
 Experimental diagram of single-period motion with frequency 1, wave number 1 and amplitude 15°
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/d46edab4-3500-4d9a-9ab1-7f1a0dbb9543)
