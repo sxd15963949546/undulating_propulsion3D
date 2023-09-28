@@ -1,4 +1,4 @@
-# Undulating_propulsion3D
+![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/fd2b4a7f-29b3-4fc2-8808-9405ed5f6cd8)# Undulating_propulsion3D
 A UDF for undulation
 The fin surface is built by Creo software. Firstly, use Matlab to build the fin points by referring to equation-1, then import the points data to Creo. After that, make these points into surfaces.
 
@@ -18,5 +18,7 @@ The robot is actuated by servos, which control the undulating motion of the fin 
 # Appendix C
 Experimental diagram of single-period motion with frequency 1, wave number 1 and amplitude 15°
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/d46edab4-3500-4d9a-9ab1-7f1a0dbb9543)
+
+# Appendix D
 
 
