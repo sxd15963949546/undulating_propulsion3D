@@ -21,4 +21,5 @@ Experimental diagram of single-period motion with frequency 1, wave number 1 and
 
 # Appendix D
 
+![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/d4828c88-44dd-4e8e-b0b4-ce3c7b553c17)
 
