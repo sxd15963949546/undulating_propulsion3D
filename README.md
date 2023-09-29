@@ -20,11 +20,11 @@ The force analysis of the robot during stationary turns is shown in \autoref{fig
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/d26cb43c-e7ec-4f41-9095-972195f5dea0)
 
 
-# Appendix C
+# Appendix D
 Experimental diagram of single-period motion with frequency 1, wave number 1 and amplitude 15°
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/assets/52901076/d46edab4-3500-4d9a-9ab1-7f1a0dbb9543)
 
-# Appendix D
+# Appendix E
 
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/blob/main/fig1.gif)
 ![image](https://github.com/sxd15963949546/undulating_propulsion3D/blob/main/fig2.gif)
